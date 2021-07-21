@@ -1,0 +1,14 @@
+.newDiv{
+    margin: 5px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+    font-size: larger;
+}
+
+.jumbotron{
+    margin-top: 20px;
+    background-image: url(https://wallpapercave.com/wp/wp3850825.jpg);
+    background-size: cover;
+    color: white;
+}
